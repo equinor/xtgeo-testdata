@@ -1,0 +1,16 @@
+
+-- COMPLETION SPECIFICATION DATA
+--    
+-- WELL        I    J    K1  K2          Sat.    CF      DIAM        KH SKIN ND        
+--					       
+COMPDAT
+
+  'WWI1'     11  40      1 5   'OPEN'     0     -1      0.216       -1  0  0  'Z' /
+  'WWI2'     11  20      3 3   'OPEN'     0     -1      0.216       -1  0  0  'Z' /
+-- Hola hei og hopp og sprett
+'WP3'        27  21      2 4   'OPEN'     0     -1      0.216       -1  0  0  'Z' /
+'WP4'        29  6       1 4   'OPEN'     0     -1      0.216       -1  0  0  'Z' /
+'WP5'        30  6       3 5   'OPEN'     0     -1      0.216       -1  0  0  'Z' /
+  /
+
+
