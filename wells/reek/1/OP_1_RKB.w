@@ -1,6 +1,6 @@
 1.0
 RKB_ADDED
-OP_1 461809.590 5932990.360 33.0000
+OP_1_RKB 461809.590 5932990.360 33.0000
 4
 Zonelog DISC 0 Above_TopUpperReek 1 Below_TopUpperReek 2 Below_TopMidReek 3 Below_TopLowerReek 4 Below_BaseLowerReek
 Perm UNK lin
