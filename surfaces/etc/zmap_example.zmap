@@ -1,0 +1,15 @@
+!     RMS - Reservoir Modeling System GRID TO ZYCOR GRID
+!     RMS - Reservoir Modeling System VERSION : 12.1
+!     GRID FILE NAME   : zmap_example.zmap
+!     CREATION DATE    : 2021.05.05
+!     CREATION TIME    : 08:20:10
+@zmap_example.zmap HEADER                     ,      GRID, 5
+      15,    -99999.0000,       ,      4,      1
+       5,      4,    459218.9063,    460718.9063,   5924787.0000,   5925787.0000
+         0.0000,         0.0000,         0.0000
+@
++ Grid data starts after this line
+        41.8596        43.1112        44.5115        45.6861        46.5453
+        42.3947        42.8493        44.9472        47.2538        49.0361
+        40.1785        51.0874        54.6339        55.6271        55.9614
+    -99999.0000    -99999.0000    -99999.0000        68.1617        63.9811
