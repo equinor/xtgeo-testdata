@@ -1,0 +1,39 @@
+Description of sixcells2 grid example files:
+
+
+1) sixcells2_described_hdr1.grdecl
+==================================
+Base example with description, left-handed. Header without
+MAPAXES
+
+
+2) sixcells2_hdr2.grdecl
+==================================
+As 1 but exported from RMS with MAPAXES, GRIDUNIT/MAPUNIT
+and GRIDORIENT included
+
+
+3) sixcells2_hdr2.bgrdecl
+==================================
+As 2) but on binary format
+
+
+4a) sixcells2_rhand_hdr1.grdecl
+4b) sixcells2_rhand_hdr2.grdecl
+==================================
+As 1) but cell origin is now upper-left,i.e. this
+becomes right-handed
+
+
+5a) sixcells2_described_zoverlap.grdecl
+5b) sixcells2_described_zsep.grdecl
+====================================
+As 1 but a cell in the middle has overlap
+or separation. XTGeo should handle this by
+using an average and also issue an warning
+
+
+6a) sixcells2.roff
+6b) sixcells2.roffasc
+=====================================
+As 1) but export on ROFF binary/ascii from RMS
