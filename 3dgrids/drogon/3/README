@@ -1,0 +1,9 @@
+valysar.roff contains:
+- grid
+- properties:
+   -- FACIES
+   -- PHIT
+   -- KLOGH
+   -- VHS
+
+valysar_bw.w contains blocked wells
