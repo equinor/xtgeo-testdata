@@ -7,3 +7,7 @@ valysar.roff contains:
    -- VHS
 
 valysar_bw.w contains blocked wells
+
+The blocked individual wells are here:
+wells/drogon/3/*.bw
+
