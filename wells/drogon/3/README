@@ -1,0 +1,4 @@
+Individual blocked wells are derived from file <testpath>/3dgrids/drogon/3/valysar_bw.w
+
+The file for a5 is edited in order to trigger discrepencies in tests, hence the name
+valysar_a5_edited.bw
