@@ -1,0 +1,11 @@
+! Having comma after last number must be allowed; cf example in
+! https://github.com/abduhbm/zmapio/blob/main/examples/NSLCU.dat
+@zmap_example2.zmap HEADER                     ,      GRID, 5
+      15,    -99999.0000,       ,      4,      1
+       4,      3,    459218.9063,    460218.9063,   5924787.0000,   5925387.0000,
+         0.0000,         0.0000,         0.0000,
+@
++ Grid data starts after this line
+    -99999.0000        45.0242        45.8803        46.5453
+        44.0108        45.9070        47.6645        49.0361
+        53.8081        55.1090        55.7511        55.9614
